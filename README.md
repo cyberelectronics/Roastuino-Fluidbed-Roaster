@@ -12,7 +12,7 @@ Here you can see some Test videos:
 - Test 4: 250g Columbia coffee bean, roasted succesfully: https://youtu.be/k_GJ-7MUQUI
 - Roastuino Bluetooth Demo: https://youtu.be/n37bFz3xK2w
 
-**Here you can find details about this project: [BOM, Schematic, Source Codes, Android APK]()**
+**Here you can find details about this project: [BOM, Schematic, Source Codes, Android APK](https://github.com/cyberelectronics/Roastuino-Fluidbed-Roaster/tree/main/Docu)**
 
 For functionalities and software description, please visit the Popper Roaster project.
 
