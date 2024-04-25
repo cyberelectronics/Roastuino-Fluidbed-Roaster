@@ -2,7 +2,7 @@
 
 This roaster contains the same PID Roastuino v1.0 (hardware and software) like in the Popper Roaster project. Only difference is: we need the Fotek SSR 40 DA (for 2000W Heater) and a heat sink must be mounted on the SSR and IRF540 MOSFET (air pump driver).
 
-The “rocket style” and the shaker idee is coming from [this project (Thanks Greencardigan!)](http://www.homeroasters.org/php/forum/viewthread.php?thread_id=2509&rowstart=20) 
+The “rocket style” and the shaker idee is coming from [this project (Thanks Greencardigan!)](https://homeroasters.org/forum/viewthread.php?thread_id=2509&rowstart=20) 
 
 Here you can see some Test videos:
 
