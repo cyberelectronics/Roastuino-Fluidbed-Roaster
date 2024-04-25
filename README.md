@@ -64,7 +64,7 @@ Other functions available at startup (keep pressed then turn ON the controller):
 - [Adafruit MAX31855 Thermocouple Arduino library](https://learn.adafruit.com/thermocouple/using-a-thermocouple)
 - [Processing](http://www.processing.org/download/) (for BBCC Plotter, optional)
 - BBCC Plotter (for PID tuning, optional)
-- [Roastlogger](http://homepage.ntlworld.com/green_bean/coffee/roastlogger/roastlogger.htm) (for PC Control and temp. curves display, optional)
+- [Roastlogger](https://homeroasters.org/forum/viewthread.php?thread_id=2564) (for PC Control and temp. curves display, optional)
 - [Artisan](http://code.google.com/p/artisan/) (only for temperature curves display, optional)
 - CP2102 USB driver (not needed for commercial Arduino Deumilanove / Uno boards)
 
